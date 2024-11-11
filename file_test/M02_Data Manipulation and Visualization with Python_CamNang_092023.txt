@@ -1,0 +1,57 @@
+Data Manipulation and Visualization with Python
+(XỬ LÝ VÀ TRỰC QUAN HÓA DỮ LIỆU VỚI PYTHON)
+Thời gian: 5 tuần
+Thời lượng: 40 giờ (53 tiết)
+Học phí: 4.500.000 đ
+Ưu đãi đặc biệt: Đăng ký Fundamentals of Python + Data Manipulation and Visualization with Python = 6.000.000đ (7.000.000đ).
+
+1. MỤC TIÊU
+- Giúp HV hiểu rõ về quy trình thực hiện dự án Data Science, nắm vững các kỹ năng cần thiết của xử lý dữ liệu và trực quan hóa dữ liệu trong Data Science. 
+- Trang bị cho HV các khái niệm cơ bản về Numpy và Pandas để xử lý dữ liệu hiệu quả.
+- Giúp HV biết cách trực quan hóa dữ liệu với thư viện Matplotlib và Seaborn. 
+- Trang bị cho HV các kỹ năng cần thiết để tạo biểu đồ tương tác và trực quan hóa dữ liệu không gian địa lý với Plotly.
+- Là khóa học thứ hai trong chương trình “Data Science and Machine Learning Certificate”.
+
+2. ĐỐI TƯỢNG HỌC
+- HV đã tham gia khóa “Fundamentals of Python”  hoặc có kiến thức tương đương 
+- HV có định hướng sẽ chọn hướng đi Machine Learning, Data Science, Data Analysis để phát triển sự nghiệp trong tương lai.
+
+3. KẾT QUẢ ĐẠT ĐƯỢC
+Kết thúc khóa học, HV có thể:
+- Nắm được các nguyên tắc cơ bản về xử lý thao tác dữ liệu và trực quan hóa dữ liệu.
+- Vận dụng được các thư viện Python Numpy và Pandas vào việc xử lý dữ liệu.
+- Trực quan hóa dữ liệu hiệu quả bằng cách sử dụng các thư viện Matplotlib, Seaborn và Plotly.
+- Phân tích và trực quan hóa dữ liệu một cách hiệu quả trên các bộ dữ liệu trong thực tế.
+
+4. NỘI DUNG KHOÁ HỌC 
+- Tổng quan Data Manipulation and Visualization with Python: 
+	+ Tổng quan Data Science. 
+	+ Tầm quan trọng của xử lý dữ liệu và trực quan hóa Dữ liệu trong Data Science.
+	+ Thiết lập môi trường làm việc.
+- Numpy:
+	+ Giới thiệu Numpy.
+	+ Mảng 1 chiều.
+	+ Mảng nhiều chiều.
+	+ Xử lý biến đổi và kết hợp mảng.
+	+ Truy xuất và lọc dữ liệu.
+	+ Các phép toán trên mảng.
+	+ Phân tích thống kê với Numpy.
+- Pandas:
+	+ Giới thiệu Pandas.
+	+ Đọc và làm sạch dữ liệu. 
+	+ Truy xuất và cập nhật dữ liệu.
+	+ Xử lý dữ liệu.
+	+ Trực quan hóa dữ liệu với Pandas.
+	+ Thống kê dữ liệu.
+- Trực quan hóa dữ liệu với Matplotlib và Seaborn:
+	+ Giới thiệu.
+	+ Trực quan hóa dữ liệu với Matplotlib.
+	+ Trực quan hóa dữ liệu kết hợp Seaborn và Matplotlib.
+	+ Word Cloud.
+- Trực quan hóa dữ liệu tương tác với Plotly:
+	+ Giới thiệu Plotly.
+	+ Trực quan hóa dữ liệu với Plotly.
+	+ Trực quan hóa không gian địa lý với Plotly.
+	+ Tùy chỉnh biểu đồ.
+
+
