@@ -11,6 +11,8 @@ from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader, U
 from langchain.agents import load_tools, initialize_agent, AgentType
 import langchain_together
 from langchain_together import Together
+import google.generativeai as genai
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 #Load bến môi trường
 load_dotenv()
@@ -88,7 +90,9 @@ def create_chain(vectorstore):
     )
     #together_client = Together(api_key=os.environ.get("TOGETHER_API_KEY"))
     #llm = langchain_together.ChatTogether(client=together_client, model="llama-3.1-70b-versatile", temperature=0)
-
+    # gk = os.getenv("GOOGLE_API_KEY")
+    # genai.configure(api_key=gk)
+    # llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro")
 
     retriever = vectorstore.as_retriever()
     memory = ConversationBufferMemory(
